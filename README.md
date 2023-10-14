@@ -23,18 +23,27 @@ The debate between Cristiano Ronaldo and Lionel Messi as the greatest footballer
 
 ### Cristiano Ronaldo vs. Lionel Messi over Time
 **Objective:** To compare the evolution of overall ratings for both players across different FIFA versions.
+
+![image](https://github.com/mjdup77/Messi-vs.-Ronaldo/assets/57140160/3d88b274-c096-42e8-bb54-0e0709656451)
+
 **Findings:**
 - Both Messi and Ronaldo have maintained top-tier ratings throughout the years, reflecting their consistent performances on the field.
 - While their ratings have seen minor fluctuations, they remain among the top-rated players in every edition of the game.
 
 ### Attributions Analysis
 **Objective:** To delve into specific attributes such as pace, dribbling, shooting, and more.
+
+![image](https://github.com/mjdup77/Messi-vs.-Ronaldo/assets/57140160/ac8eef6b-647c-4302-802b-c2a246eea6c4)
+
 **Findings:**
 - Messi tends to have higher scores in attributes like dribbling, ball control, and vision, emphasizing his playmaking abilities.
 - Ronaldo often scores higher in power, shot power, and physical attributes, showcasing his athletic prowess.
 
 ### Trait Analysis
 **Objective:** To explore the unique traits assigned to each player in the FIFA series.
+
+![image](https://github.com/mjdup77/Messi-vs.-Ronaldo/assets/57140160/8905e6ff-6a6b-45e6-b49d-ca1aaf400105)
+
 **Findings:**
 - Traits like "Finesse Shot" and "Speed Dribbler (AI)" have been consistent for Messi across all years.
 - Ronaldo has been consistently characterized with traits like "Power Free-Kick", "Flair", and "Speed Dribbler (AI)".
